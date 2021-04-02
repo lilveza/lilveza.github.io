@@ -16,8 +16,8 @@ a {
 }
 
 .logo {
-	height: 150px;
-	margin-top: 30px;
+	height: 320px;
+	margin-top: 600px;
 	margin-bottom: -10px;
 }
 
@@ -31,13 +31,12 @@ a {
 
 .soundcloud {
 	padding-top: 50px;
-	size: 50%;
-	height: 600px;
-	width: 30%;
+	height: 800px;
+	width: 60%;
 }
 
 .social-media-button {
 	margin-top: 50px;
-	width: 40px;
+	width: 80px;
 	margin-right: 10px;
 }
