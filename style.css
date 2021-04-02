@@ -11,14 +11,35 @@ html {
 	background-repeat: repeat;
 }
 
+a{
+	text-decoration: none;
+}
+
+.logo {
+	height: 150px;
+	margin-top: 30px;
+	margin-bottom: -10px;
+}
+
 .big-text {
 	font-family: 'Bold';
 	color: white;
-	font-size: 100px;
-	padding-top: 10px;
+	font-size: 80px;
+	margin-top: 30px;
+	margin-bottom: -10px;
 
 }
 
 .soundcloud {
 	padding-top: 50px;
+	size: 50%;
+	height: 600px;
+	width: 30%;
+}
+
+.social-media-button {
+	margin-top: 50px;
+	width: 40px;
+	margin-right: 10px;
+
 }
