@@ -11,7 +11,7 @@ html {
 	background-repeat: repeat;
 }
 
-a{
+a {
 	text-decoration: none;
 }
 
@@ -27,7 +27,6 @@ a{
 	font-size: 80px;
 	margin-top: 30px;
 	margin-bottom: -10px;
-
 }
 
 .soundcloud {
@@ -41,5 +40,4 @@ a{
 	margin-top: 50px;
 	width: 40px;
 	margin-right: 10px;
-
 }
