@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'Bold';
+	src: url('fonts/275e1e1e-08b1-4fe8-952b-5484d602fa4e.woff2') format('woff2'), url('fonts/275e1e1e-08b1-4fe8-952b-5484d602fa4e.woff') format('woff'), url('fonts/275e1e1e-08b1-4fe8-952b-5484d602fa4e.ttf') format('truetype');
+}
+
+html {
+	background-image: url("img/bg.png");
+	background-color: black;
+	height: 350px;
+	background-position: center;
+	background-repeat: repeat;
+}
+
+.big-text {
+	font-family: 'Bold';
+	color: white;
+	font-size: 100px;
+	padding-top: 10px;
+
+}
+
+.soundcloud {
+	padding-top: 50px;
+}
