@@ -9,16 +9,19 @@ html {
 	height: 350px;
 	background-position: center;
 	background-repeat: repeat;
+	overflow: hidden;
 }
 
 a {
 	text-decoration: none;
 }
 
+body {
+	margin-top: 200px;
+}
+
 .logo {
 	height: 320px;
-	margin-top: 600px;
-	margin-bottom: -10px;
 }
 
 .big-text {
@@ -29,14 +32,9 @@ a {
 	margin-bottom: -10px;
 }
 
-.soundcloud {
-	padding-top: 50px;
-	height: 800px;
-	width: 60%;
-}
-
 .social-media-button {
 	margin-top: 50px;
 	width: 80px;
 	margin-right: 10px;
 }
+
